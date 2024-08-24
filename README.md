@@ -1,4 +1,7 @@
 # Watch Flashair file update via wifi in station mode
+This is a playground for trying the feature of TOSHIBA Flash Air.
+Simply get file list via cgi and download newly created file from specific directory.
+
 - sample of CONFIG file in flashair
 ```
 [Vendor]
